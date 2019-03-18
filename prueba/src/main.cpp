@@ -1,5 +1,6 @@
 #include <Arduino.h>
-#include <DNSServer.h>
+
+#include <SparkFunHTU21D.h>
 void setup() {
   // put your setup code here, to run once:
 }
