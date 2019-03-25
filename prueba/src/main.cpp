@@ -7,4 +7,6 @@ int a ;}
 
 void loop() {
   // put your main code here, to run repeatedly:
+
+  printf(9);
 }
